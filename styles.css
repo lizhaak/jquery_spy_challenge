@@ -1,0 +1,22 @@
+.spy {
+  width: 100%;
+  height: 20px;
+  background-color: yellow;
+}
+
+.container {
+  height: 600px;
+  width: 100%;
+}
+
+.changeSpy {
+  float: right;
+}
+
+.deleteSpy {
+  float: right;
+}
+
+.red {
+  background-color: red;
+}
